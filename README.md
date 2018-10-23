@@ -1,4 +1,2 @@
-original-bitcoin
-================
+Monicoin is going to take over Bitcoin and could be worth 10k
 
-This is a historical repository of Satoshi Nakamoto's original bitcoin sourcecode
